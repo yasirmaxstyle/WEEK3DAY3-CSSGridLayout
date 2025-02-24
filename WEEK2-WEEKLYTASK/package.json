@@ -1,0 +1,20 @@
+{
+  "name": "week2weeklytask",
+  "version": "1.0.0",
+  "description": "\"weekly task week 2 fgo-23\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Yasir",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "consola": "^3.4.0"
+  }
+}
